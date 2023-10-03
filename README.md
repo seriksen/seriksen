@@ -2,6 +2,7 @@
 - 👀 I work on the LUX-ZEPLIN dark matter experiment and on SWIFT-HEP
 - 🌱 I’m currently learning nothing.
 
+[![@Sam's Holopin board](https://holopin.io/api/user/board?user=seriksen)](https://holopin.io/@seriksen)
 
 [![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=seriksen&count_private=true&show_icons=true&theme=radical)](https://github.com/seriksen/)
 
