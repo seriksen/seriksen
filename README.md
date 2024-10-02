@@ -3,8 +3,11 @@
 
 - 👋 Hi, I’m @seriksen
 - 👀 I work on the LUX-ZEPLIN dark matter experiment and on SWIFT-HEP
-- 🌱 I’m currently learning nothing.
 
+**Coding**: 
+- [github](https://github.com/seriksen)
+- [gitlab](https://gitlab.com/seriksen)
+- [bitbucket](https://bitbucket.org/SamEriksen)
 
 ### Pins of Power
 [![@Sam's Holopin board](https://holopin.io/api/user/board?user=seriksen)](https://holopin.io/@seriksen)
